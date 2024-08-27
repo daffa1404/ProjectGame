@@ -1,0 +1,52 @@
+﻿Import the relevant data below into Construct2/3.
+
+################################################################################
+
+Character width: 51
+Character height: 55
+Character set: ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,;:?!-_~#"'&()[]|`\/@°+=*$£€<>%
+
+################################################################################
+Construct 3 ONLY.
+Copy the following JSON text and paste into the 'Spacing data' property of the SpriteFont. No extra coding is required!
+
+[[15," "],[9,"Iil'|"],[10,".,;:!"],[13,"`"],[14,"[]"],[15,"j"],[16,"()"],[17,"t1\"°"],[18,"r-\\/"],[19,"f"],[20,"*"],[24,"J"],[25,"hknu"],[26,"Lbpsz"],[27,"cdgq035789?"],[28,"Faeovxy26~+=$<>"],[29,"4"],[30,"£"],[31,"BEP#€"],[32,"HNSTUZ"],[33,"K_&"],[34,"D"],[35,"CR"],[36,"AVXY"],[37,"G"],[38,"MOQm"],[39,"w"],[42,"%"],[49,"W@"]]
+
+################################################################################
+Construct 2 ONLY.
+Copy the following JSON text and paste into the Array.Load command INSIDE the default quotes.
+
+{""c2array"":true,""size"":[2,29,1],""data"":[[[15],[9],[10],[13],[14],[15],[16],[17],[18],[19],[20],[24],[25],[26],[27],[28],[29],[30],[31],[32],[33],[34],[35],[36],[37],[38],[39],[42],[49]],[["" ""],[""Iil'|""],["".,;:!""],[""`""],[""[]""],[""j""],[""()""],[""t1\""°""],[""r-\\/""],[""f""],[""*""],[""J""],[""hknu""],[""Lbpsz""],[""cdgq035789?""],[""Faeovxy26~+=$<>""],[""4""],[""£""],[""BEP#€""],[""HNSTUZ""],[""K_&""],[""D""],[""CR""],[""AVXY""],[""G""],[""MOQm""],[""w""],[""%""],[""W@""]]]}
+
+################################################################################
+These are the details for building the character widths manually, with the SpriteFont  'Set character width' action.
+
+15	" "
+9	"Iil'|"
+10	".,;:!"
+13	"`"
+14	"[]"
+15	"j"
+16	"()"
+17	"t1""°"
+18	"r-\/"
+19	"f"
+20	"*"
+24	"J"
+25	"hknu"
+26	"Lbpsz"
+27	"cdgq035789?"
+28	"Faeovxy26~+=$<>"
+29	"4"
+30	"£"
+31	"BEP#€"
+32	"HNSTUZ"
+33	"K_&"
+34	"D"
+35	"CR"
+36	"AVXY"
+37	"G"
+38	"MOQm"
+39	"w"
+42	"%"
+49	"W@"
